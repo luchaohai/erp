@@ -13,3 +13,7 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 1. WARN  1 deprecated subdependencies found: boolean@3.2.0
 - Reason: boolean@3.2.0: This package is deprecated and no longer maintained. Use `is-boolean-object` instead.
 - Solution: waiting to install lastest version of electron. [plan:2025.07]
+
+## Reference
+
+[Yukun-Guo/vite-vue3-electron-ts-template](https://github.com/Yukun-Guo/vite-vue3-electron-ts-template)
