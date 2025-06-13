@@ -11,7 +11,8 @@
     "app:dev": "tsc && concurrently vite 'electron .' 'tsc -w'"
   },
   "dependencies": {
-    "vue": "^3.5.13"
+    "vue": "^3.5.13",
+    "vue-router": "4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.3",
