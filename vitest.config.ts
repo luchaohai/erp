@@ -11,6 +11,7 @@ export default defineConfig({
   },
   test: {
     environment: 'jsdom',
+    setupFiles: ['./tests/vitest.setup.ts'],
     coverage: {
       include: ['src/**/*.{js,ts,vue}'],
       exclude: ['src/main.ts', 'src/router/index.ts'],
